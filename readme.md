@@ -16,6 +16,18 @@
 
 ![image](https://user-images.githubusercontent.com/114221089/219665880-f4a6e8ef-7d4f-4269-98a1-bd359ff7d691.png)
 
+#### 3) 알베니스 음계 학습
+##### 실패로 확인
+
+![image](https://user-images.githubusercontent.com/114221089/221347064-3544ad60-23c8-455b-9db3-e3b391dcf6fc.png)
+
+
+###### 과적합 되었다 vs threshold에 빠진 것이다.
+
+#### 4) 베토벤 음계 학습
+##### epoch 150회시 아래 내용
+
+![image](https://user-images.githubusercontent.com/114221089/221347109-8e1a6d32-dfbb-4796-86f8-b5748396207d.png)
 
 
 #### 수정중
