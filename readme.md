@@ -30,4 +30,4 @@
 ![image](https://user-images.githubusercontent.com/114221089/221347109-8e1a6d32-dfbb-4796-86f8-b5748396207d.png)
 
 
-#### 수정중
+#### ※ 23_01_25 번역 완료. 작곡가 추가중
